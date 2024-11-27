@@ -28,7 +28,7 @@ const PrivecyPolicy = () => {
             <li>Send updates, newsletters, or promotional offers.</li>
             <li>Respond to customer support requests.</li>
           </ul>
-        </section>
+        </section>    
 
         <section>
           <h2>3. Sharing Your Information</h2>
